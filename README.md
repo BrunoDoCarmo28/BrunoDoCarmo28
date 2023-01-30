@@ -1,16 +1,25 @@
-### Hi there 👋
+<h1  align="center"> Hello world, i am Bruno Do Carmo ! </h1>
+<ul> 
 
-<!--
-**BrunoDoCarmo28/BrunoDoCarmo28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<li> 🚀 Web Developer Junior </li>
+<li> 🔍 Former Service Desk Analyst</li>
+<li> 💡 Start as a Front-end Web Developer and evolve to the point where I can lead my own team</li>
+<li> 💻 Skills in HTML5, CSS3, JavaScript 8.0 </li>
+<li> ✏️ Studying workflow: HTML5, CSS3, JavaScript 8.0,Node.Js, SQL, ReactJS and Typescript</li>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+</ul>
+
+<h2>Contact</h2>
+
+<ul>
+
+<li> <a href="https://www.linkedin.com/in/bruno-do-carmo-554061215/"> 💼 Linkedin</a> </li>
+<li> <a href="https://www.instagram.com/bruno_ocarmo/?next=%2F"> 📸 Instagram</a> </li>
+<li><a href="https://wa.me/5551991190815"> 📱 Whatsapp </a> </li>
+
+
+
+</ul>
