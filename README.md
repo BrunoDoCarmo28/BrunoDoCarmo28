@@ -6,7 +6,7 @@
 <li> 🔍 Former Service Desk Analyst</li>
 <li> 💡 Start as a Front-end Web Developer and evolve to the point where I can lead my own team</li>
 <li> 💻 Skills in HTML5, CSS3, JavaScript 8.0 </li>
-<li> ✏️ Currently studying: JavaScript, Node.Js, SQL, ReactJS, .Net and Bootstrap</li>
+<li> ✏️ Currently studying: JavaScript, Node.Js, SQL, ReactJS, TailwindCSS</li>
 
 
 
