@@ -7,12 +7,17 @@
 <li> 💡 Start as a Front-end Web Developer and evolve to the point where I can lead my own team</li>
 <li> 💻 Skills in HTML5, CSS3, JavaScript 8.0 </li>
 <li> ✏️ Currently studying: JavaScript, Node.Js, SQL, ReactJS</li>
+  
+  </ul>
+  
+  <div>
 
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
- 
+  
+ </div>
 
 
-</ul>
+
 
 <h2>Contact</h2>
 
