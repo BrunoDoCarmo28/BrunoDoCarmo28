@@ -8,6 +8,8 @@
 <li> 💻 Skills in HTML5, CSS3, JavaScript 8.0 </li>
 <li> ✏️ Currently studying: JavaScript, Node.Js, SQL, ReactJS, TailwindCSS</li>
 
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true)
 
 
 </ul>
