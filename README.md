@@ -17,7 +17,7 @@
 
 
 
-  <img width="20%" src="https://github-readme-stats.vercel.app/api?username=BrunoDoCarmo28&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img width="32%" src="https://github-readme-stats.vercel.app/api?username=BrunoDoCarmo28&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 
 
 
