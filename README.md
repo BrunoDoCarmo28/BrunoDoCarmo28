@@ -11,11 +11,12 @@
   
   </ul>
 
-## <div>
+## <div style="display: flex;">
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=BrunoDoCarmo28&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 </div>
+
 
 
 ##
