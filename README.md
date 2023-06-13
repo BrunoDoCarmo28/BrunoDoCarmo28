@@ -7,8 +7,7 @@
 <li> 💡 Start as a Front-end Web Developer and evolve to the point where I can lead my own team</li>
 <li> 💻 Skills in HTML5, CSS3, JavaScript 8.0 </li>
 <li> ✏️ Currently studying: JavaScript, Node.Js, SQL, ReactJS</li>
-  
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bruno's&hide=contribs,prs&theme=dark)
+
   
   </ul>
   
