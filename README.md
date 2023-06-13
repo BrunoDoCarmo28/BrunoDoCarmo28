@@ -16,7 +16,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 </p>
 
-<h1  align="center"> Hobbies</h1>
+<h1  align="left"> Hobbies</h1>
 <ul> 
 
 
