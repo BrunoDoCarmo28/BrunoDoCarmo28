@@ -35,7 +35,7 @@
 
 <li> <a href="https://www.linkedin.com/in/bruno-do-carmo-554061215/"> 💼 Linkedin</a> </li>
 <li> <a href="https://www.instagram.com/bruno_ocarmo/?next=%2F"> 📸 Instagram</a> </li>
-<li><a href="https://wa.me/5551991190815"> 📱 Whatsapp </a> </li>
+<li><a href="https://wa.me/5541988891412"> 📱 Whatsapp </a> </li>
 
 
 
